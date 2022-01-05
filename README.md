@@ -1,4 +1,4 @@
-# smart_contract
+
 Examples of solidity smart contracts regarding a ERC20 token.
 
 test-contract token address on bsc testnet:
